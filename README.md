@@ -9,7 +9,7 @@ The project uses basic electrical formulas to calculate voltage, current, resist
 ## 2.     Features
 The Electric Circuit Calculator includes the following features:
 
-- calculate term  using Ohm`s Law:
+- calculate term  using Ohm`s Law: 
 voltage
 current
 resistance
