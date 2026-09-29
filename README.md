@@ -1,1 +1,0 @@
-# electric_circuit_calculator
